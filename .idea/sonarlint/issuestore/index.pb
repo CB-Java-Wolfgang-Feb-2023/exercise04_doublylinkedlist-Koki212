@@ -1,8 +1,6 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-9
-	Node.java,e\d\ed02129552b2e83baf49343541491561975ba1ea
 =
 src/Node.java,3\a\3ab60872f365ff6fee76b90596b6f298e0190389
 H
@@ -11,10 +9,6 @@ H
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 O
 src/DoublyLinkedListCustom.java,2\3\2336e0741d6144dbf1a52e7651882b2477efe66d
-G
-MyDoublyLinkedList.java,4\1\4112f3b2004c86baf971b9aab9d170395fb4da34
-9
-	Main.java,6\9\69cdb079609ed3ce1e356d44cff508330a5787c4
 J
 src/KokisAufgabe/Node.java,7\b\7b1014bd7c20dce5a26b00f4f692d686adf2ec81
 X
